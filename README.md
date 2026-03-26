@@ -2,3 +2,10 @@
 Repositorio de la clase de introduccion a la ciencia de datos 2026/03/26
 
 Hoy juega Colombia!!!!!
+
+# Título principal (H1)
+## Subtítulo (H2)
+### Sub-subtítulo (H3)
+#### Nivel 4 (H4)
+##### Nivel 5 (H5)
+###### Nivel 6 (H6)
