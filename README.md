@@ -15,3 +15,7 @@ Imagen simple
 
 Imagen desde URL externa
 ![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+
+**negrita**
+*cursiva*
+~~tachado~~
